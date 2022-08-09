@@ -17,15 +17,15 @@ e mando muito em programação!
 #VQV!'`
 ```
 
-4 - Implemente os casos de teste para a função `circle`.
+4 - Implemente os casos de teste para a função circle.
 
 5 - Implemente uma função que recebe como parâmetro um nome, e retorna um objeto contendo duas chaves:
     (1) name, contendo o nome passado como parâmetro;
     (2) feedback, contendo uma função que retorna a frase 'Eita pessoa boa!' ao ser chamada..
 
-6 - Implemente os casos de teste para a função `productDetails`.
+6 - Implemente os casos de teste para a função productDetails.
 
-7 - Implemente a função `objCalculator`
+7 - Implemente a função objCalculator
 Desenvolva um objeto calculator que possui quatro chaves:
   - add;
   - mult;
@@ -36,7 +36,7 @@ Para cada uma delas atribua uma função que realiza a respectiva operação.
 
 8 - Implemente uma função que possui dois loops aninhados que inserem valores dentro de um array. Como podemos perceber, eles vão adicionando valores ao array até sua condição de parada..
 
-9 - Implemente os casos de teste e a função `createMenu`.
+9 - Implemente os casos de teste e a função createMenu.
 
 ### 🛠 Tecnologia
 
