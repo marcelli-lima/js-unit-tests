@@ -2,7 +2,7 @@
 
 ## Esse projeto tem como objetivo implementar várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.
 
-### 📋 Requisitos
+## 📋 Requisitos
 
 1 - Implemente uma função que recebe um array (tamanho variável) e retorna a média dos valores recebidos. Caso a função receba algum valor não númerico ou um array vazio, o valor undefined deve ser retornado. Todos os resultados devem ser arredondados para valores inteiros. 
 
@@ -37,14 +37,6 @@ Para cada uma delas atribua uma função que realiza a respectiva operação.
 8 - Implemente uma função que possui dois loops aninhados que inserem valores dentro de um array. Como podemos perceber, eles vão adicionando valores ao array até sua condição de parada..
 
 9 - Implemente os casos de teste e a função `createMenu`.
-
-10 - Crie uma função de Lista de tecnologias.
-
-11 - Crie uma função de Número de telefone.
-
-12 - Crie uma função de Condição de existência de um triângulo.
-
-13 - Crie uma função de Bem vindo ao Bar!
 
 ### 🛠 Tecnologia
 
